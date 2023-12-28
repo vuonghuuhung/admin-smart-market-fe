@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "kg"
+        }, 
+        {
+            "id": 2,
+            "name": "g"
+        },
+        {
+            "id": 3,
+            "name": "túi"
+        },
+        {
+            "id": 4,
+            "name": "miếng"
+        },
+        {
+            "id": 5,
+            "name": "cái"
+        },
+        {
+            "id": 6,
+            "name": "chiếc"
+        },
+        {
+            "id": 7,
+            "name": "quả"
+        },
+        {
+            "id": 8,
+            "name": "đĩa"
+        },
+        {
+            "id": 9,
+            "name": "bát"
+        },
+        {
+            "id": 10,
+            "name": "muỗng cà phê"
+        },
+        {
+            "id": 11,
+            "name": "bát ô tô"
+        },
+        {
+            "id": 12,
+            "name": "nồi"
+        },
+        {
+            "id": 13,
+            "name": "suất"
+        },
+        {
+            "id": 14,
+            "name": "lọ"
+        },
+        {
+            "id": 15,
+            "name": "chai"
+        }
+    ]
+}

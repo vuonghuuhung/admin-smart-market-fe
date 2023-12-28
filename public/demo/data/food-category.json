@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Italian"
+        },
+        {
+            "id": 2,
+            "name": "Mexican"
+        },
+        {
+            "id": 3,
+            "name": "Chinese"
+        },
+        {
+            "id": 4,
+            "name": "Japanese"
+        },
+        {
+            "id": 5,
+            "name": "Indian"
+        },
+        {
+            "id": 6,
+            "name": "American"
+        },
+        {
+            "id": 7,
+            "name": "French"
+        },
+        {
+            "id": 8,
+            "name": "Thai"
+        },
+        {
+            "id": 9,
+            "name": "Mediterranean"
+        },
+        {
+            "id": 10,
+            "name": "Vegetarian"
+        },
+        {
+            "id": 11,
+            "name": "Vegan"
+        },
+        {
+            "id": 12,
+            "name": "Gluten-Free"
+        },
+        {
+            "id": 13,
+            "name": "Seafood"
+        },
+        {
+            "id": 14,
+            "name": "Steakhouse"
+        },
+        {
+            "id": 15,
+            "name": "Breakfast"
+        },
+        {
+            "id": 16,
+            "name": "Dessert"
+        },
+        {
+            "id": 17,
+            "name": "Barbecue"
+        },
+        {
+            "id": 18,
+            "name": "Fast Food"
+        },
+        {
+            "id": 19,
+            "name": "Sushi"
+        },
+        {
+            "id": 20,
+            "name": "Korean"
+        }
+    ]
+}
