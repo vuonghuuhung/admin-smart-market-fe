@@ -1,0 +1,304 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "userId": 1,
+            "resultCode": "00035",
+            "level": "Info",
+            "errorMessage": "You registered successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T05:57:35.000Z",
+            "updatedAt": "2023-12-28T05:57:35.000Z"
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "resultCode": "00058",
+            "level": "Info",
+            "errorMessage": "Your email address was verified successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T05:58:26.000Z",
+            "updatedAt": "2023-12-28T05:58:26.000Z"
+        },
+        {
+            "id": 3,
+            "userId": 0,
+            "resultCode": "00006",
+            "level": "Client Error",
+            "errorMessage": "Access denied. No token provided.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T05:59:58.000Z",
+            "updatedAt": "2023-12-28T05:59:58.000Z"
+        },
+        {
+            "id": 4,
+            "userId": 1,
+            "resultCode": "00129",
+            "level": "Info",
+            "errorMessage": "Successfully retrieved units",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:00:09.000Z",
+            "updatedAt": "2023-12-28T06:00:09.000Z"
+        },
+        {
+            "id": 5,
+            "userId": 0,
+            "resultCode": "00006",
+            "level": "Client Error",
+            "errorMessage": "Access denied. No token provided.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:01:39.000Z",
+            "updatedAt": "2023-12-28T06:01:39.000Z"
+        },
+        {
+            "id": 6,
+            "userId": 1,
+            "resultCode": "00109",
+            "level": "Info",
+            "errorMessage": "Successfully retrieved logs",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:01:49.000Z",
+            "updatedAt": "2023-12-28T06:01:49.000Z"
+        },
+        {
+            "id": 7,
+            "userId": 0,
+            "resultCode": "00042",
+            "level": "Client Error",
+            "errorMessage": "An account with this email address was not found.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:12:15.000Z",
+            "updatedAt": "2023-12-28T06:12:15.000Z"
+        },
+        {
+            "id": 8,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:12:31.000Z",
+            "updatedAt": "2023-12-28T06:12:31.000Z"
+        },
+        {
+            "id": 9,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:26:45.000Z",
+            "updatedAt": "2023-12-28T06:26:45.000Z"
+        },
+        {
+            "id": 10,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:27:20.000Z",
+            "updatedAt": "2023-12-28T06:27:20.000Z"
+        },
+        {
+            "id": 11,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:28:03.000Z",
+            "updatedAt": "2023-12-28T06:28:03.000Z"
+        },
+        {
+            "id": 12,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:29:05.000Z",
+            "updatedAt": "2023-12-28T06:29:05.000Z"
+        },
+        {
+            "id": 13,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:29:12.000Z",
+            "updatedAt": "2023-12-28T06:29:12.000Z"
+        },
+        {
+            "id": 14,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:29:24.000Z",
+            "updatedAt": "2023-12-28T06:29:24.000Z"
+        },
+        {
+            "id": 15,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:29:26.000Z",
+            "updatedAt": "2023-12-28T06:29:26.000Z"
+        },
+        {
+            "id": 16,
+            "userId": 0,
+            "resultCode": "00042",
+            "level": "Client Error",
+            "errorMessage": "An account with this email address was not found.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:29:36.000Z",
+            "updatedAt": "2023-12-28T06:29:36.000Z"
+        },
+        {
+            "id": 17,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:29:43.000Z",
+            "updatedAt": "2023-12-28T06:29:43.000Z"
+        },
+        {
+            "id": 18,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:30:14.000Z",
+            "updatedAt": "2023-12-28T06:30:14.000Z"
+        },
+        {
+            "id": 19,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:30:17.000Z",
+            "updatedAt": "2023-12-28T06:30:17.000Z"
+        },
+        {
+            "id": 20,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:34:08.000Z",
+            "updatedAt": "2023-12-28T06:34:08.000Z"
+        },
+        {
+            "id": 21,
+            "userId": 0,
+            "resultCode": "00042",
+            "level": "Client Error",
+            "errorMessage": "An account with this email address was not found.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:34:12.000Z",
+            "updatedAt": "2023-12-28T06:34:12.000Z"
+        },
+        {
+            "id": 22,
+            "userId": 1,
+            "resultCode": "00047",
+            "level": "Info",
+            "errorMessage": "You logged in successfully.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:35:52.000Z",
+            "updatedAt": "2023-12-28T06:35:52.000Z"
+        },
+        {
+            "id": 23,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:42:03.000Z",
+            "updatedAt": "2023-12-28T06:42:03.000Z"
+        },
+        {
+            "id": 24,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:42:27.000Z",
+            "updatedAt": "2023-12-28T06:42:27.000Z"
+        },
+        {
+            "id": 25,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:42:38.000Z",
+            "updatedAt": "2023-12-28T06:42:38.000Z"
+        },
+        {
+            "id": 26,
+            "userId": 0,
+            "resultCode": "00045",
+            "level": "Client Error",
+            "errorMessage": "You have entered an invalid email or password.",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:43:04.000Z",
+            "updatedAt": "2023-12-28T06:43:04.000Z"
+        },
+        {
+            "id": 27,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:43:29.000Z",
+            "updatedAt": "2023-12-28T06:43:29.000Z"
+        },
+        {
+            "id": 28,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:43:33.000Z",
+            "updatedAt": "2023-12-28T06:43:33.000Z"
+        },
+        {
+            "id": 29,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:45:06.000Z",
+            "updatedAt": "2023-12-28T06:45:06.000Z"
+        },
+        {
+            "id": 30,
+            "userId": 0,
+            "resultCode": "00039",
+            "level": "Client Error",
+            "errorMessage": "\"email\" is not allowed to be empty",
+            "ip": "::1",
+            "createdAt": "2023-12-28T06:45:42.000Z",
+            "updatedAt": "2023-12-28T06:45:42.000Z"
+        }
+    ]
+}

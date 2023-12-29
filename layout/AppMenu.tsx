@@ -19,10 +19,10 @@ const AppMenu = () => {
             label: 'App',
             items: [
                 {
-                    label: 'Food Category', icon: 'pi pi-fw pi-table', to: '/uikit/food-category'
+                    label: 'Food Category', icon: 'pi pi-fw pi-table', to: '/pages/food-category'
                 },
                 {
-                    label: 'Unit of measurement', icon: 'pi pi-fw pi-check-square', to: '/uikit/unit-measurement'
+                    label: 'Unit of measurement', icon: 'pi pi-fw pi-check-square', to: '/pages/unit-of-measurement'
                 }
             ]
         },

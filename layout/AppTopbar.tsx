@@ -6,6 +6,7 @@ import { Menu } from 'primereact/menu';
 import React, { forwardRef, useContext, useImperativeHandle, useRef } from 'react';
 import { AppTopbarRef } from '../types/types';
 import { LayoutContext } from './context/layoutcontext';
+import { AuthService } from '../demo/service/AuthService';
 
 const AppTopbar = forwardRef<AppTopbarRef>((props, ref) => {
     const { layoutConfig, layoutState, onMenuToggle, showProfileSidebar } = useContext(LayoutContext);
@@ -37,7 +38,7 @@ const AppTopbar = forwardRef<AppTopbarRef>((props, ref) => {
 
             <div ref={topbarmenuRef} className={classNames('layout-topbar-menu', { 'layout-topbar-menu-mobile-active': layoutState.profileSidebarVisible })}>
                 <Link href="/auth/login">
-                    <button type="button" className="p-link layout-topbar-button">
+                    <button type="button" onClick={() => AuthService.logout()} className="p-link layout-topbar-button">
                         <i className="pi pi-fw pi-sign-in"></i>
                         <span>Logout</span>
                     </button>

@@ -180,7 +180,34 @@ declare namespace Demo {
 
     type UnitOfMeasurement = {
         id: number,
-        name: string
+        unitName: string
+    }
+
+    type LoginAccount = {
+        email: string;
+        password: string;
+        accessToken?: string;
+    }
+
+    type Log = {
+        id: number;
+        userId: number;
+        resultCode: string;
+        level: string;
+        errorMessage: string;
+        ip: string;
+        createAt: string;
+        updateAt: string;
+    }
+
+    type UpdateCategory = {
+        oldName: string;
+        newName: string;
+    }
+
+    type UpdateUnit = {
+        oldName: string;
+        newName: string;
     }
 
     interface Event extends EventInput {
