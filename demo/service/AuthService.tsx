@@ -19,6 +19,11 @@ export const AuthService = {
                 throw new Error(data.resultMessage.vn);
             }
 
+            console.log('data.user.type: ', data.user.type);
+            if (data.user.type !== "admin") {
+                throw new Error("You are not admin");
+            }
+
             localStorage.setItem("accessToken", data.accessToken);
 
         } catch (error: any) {
